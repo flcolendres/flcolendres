@@ -8,7 +8,7 @@ I'm a Computer Programming and Analysis student passionate about data and databa
 
 ### 🎓 Education
 
-    Seneca Polytechnic – Computer Programming and Analysis (Sept.2021-Present)
+    Seneca Polytechnic – Computer Programming and Analysis (Sept.2021-Aug.2024)
 
 ### 🚀 What I'm focusing on <br>
 I'm currently enhancing my skills in:

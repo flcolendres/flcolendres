@@ -3,7 +3,7 @@ I'm a Computer Programming and Analysis graduate passionate about data and datab
 ### 💼 Skills
 
     Database: Transact-SQL, Oracle SQL
-    Programming: Python
+    Programming: Python, Java
     Data Analysis: Microsoft Excel, Power BI
 
 ### 🎓 Education

@@ -2,7 +2,7 @@
 I'm a Computer Programming and Analysis graduate passionate about data and databases. <br> Currently seeking opportunities in Data Analysis and Database Administration. <br> <br>
 ### 💼 Skills
 
-    Database: Transact-SQL, Oracle SQL
+    Database: Transact-SQL, Oracle SQL, MongoDB
     Programming: Python, Java
     Data Analysis: Microsoft Excel, Power BI
 
@@ -20,6 +20,7 @@ I'm currently enhancing my skills in:
 ### 📊 Projects <br>
 Here are some projects I'm proud of:
 
+    Careo: a web application that recommends personalized skin and hair care products based on user-provided conditions, enhancing the self-care experience
     IMDb Top 250 TV Shows: Data exploration on consisting of the highest rated TV series in IMDb.
     Labour Force Characteristics: Data exploration and visualization aimed specifically from 15 to 24 years of age, both sexes and from Ontario.
 

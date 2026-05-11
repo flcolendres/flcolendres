@@ -1,5 +1,5 @@
 # Hello, my name is Francis 👋
-I'm a Computer Programming and Analysis graduate passionate about data and databases. <br> Currently seeking opportunities in Data Analysis and Database Administration. <br> <br>
+I'm a Computer Programming and Analysis graduate and a Human Resources Student passionate about data and databases. <br> Currently seeking opportunities in the field of People and Culture <br> <br>
 ### 💼 Skills
 
     Database: Transact-SQL, Oracle SQL, MongoDB
